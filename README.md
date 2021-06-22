@@ -1,4 +1,4 @@
-# China COVID-19 Conspiracy Analysis
+# COVID-19 Conspiracy Analysis (China)
 
 Exploring American beliefs in the COVID-19 conspiracy theory – Coronavirus is a Chinese bioweapon; inference model through logistic regression; testing various multiclass classification algorithms for predicting the degree of beliefs in the conspiracy.
 
